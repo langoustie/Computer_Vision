@@ -1,4 +1,4 @@
-My first very successful attempt at machine learning, which complements the dataset creation project with Vinted. 
+My first  attempt at machine learning, which complements the dataset creation project with Vinted. 
 So I decided to do a test on colab with pokemon cards, because why not, and because I had friends who wanted a tool to measure the value of pokemon cards.
 
 Main objectives
