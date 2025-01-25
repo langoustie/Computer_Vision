@@ -1,4 +1,4 @@
-My first real attempt at machine learning, which complements the dataset creation project with Vinted. 
+My first real attempt at machine learning, which complements the dataset creation project with Vinted. As you can see with the learning rate... it is not a great sucess :(
 So I decided to do a test on colab with pokemon cards, because why not, and because I had friends who wanted a tool to measure the value of pokemon cards.
 
 Main objectives
@@ -14,3 +14,4 @@ Main objectives
   Technical approach
         Use of advanced libraries such as fastai for computer vision.
         Integration of tools to automate workflow, particularly for managing large files such as high-definition images.
+
